@@ -2,34 +2,20 @@
 
 Below you will find a list of my current projects I am working on.
 
-### Markdown
+### Smart Garden Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My Smart Garden Project has a few goals that it will need to accomplish.
 
-```markdown
-Syntax highlighted code block
+1. Be able to turn on/off grow lights based off a schedule
+2. Be able to turn on/off a water pump based off a schedule
+3. Use an RTC to keep track of the time
+4. Log data and errors to an SD card.
 
-# Header 1
-## Header 2
-### Header 3
+### Future Project Place Holder
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Future Project Place Holder
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlkid1499/carlkid1499.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
