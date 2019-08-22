@@ -25,6 +25,7 @@ I'll be providing a list along with links of the sites.
 3. [DC Liquid Pump](https://www.robotgeek.com/large-liquid-pump)
 4. [Barrel Jack Female Pigtail](https://www.robotgeek.com/store/p/6612-Barrel-Jack-Female-Pigtail-Lead-2-1-5-5mm.aspx)
 5. [Power Supply](https://www.robotgeek.com/p/power-supply-12vdc-5a.aspx)
+6. [ARDUINO UNO](https://store.arduino.cc/usa/arduino-uno-rev3)
 
 
 
