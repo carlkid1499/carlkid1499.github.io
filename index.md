@@ -2,7 +2,7 @@
 
 Below you will find a list of my current projects I am working on.
 
-### Smart Garden Project 
+### [Smart Garden Project](https://github.com/carlkid1499/carlkid1499.github.io) 
   My Smart Garden Project has a few goals that it will need to accomplish.
 
 1. Be able to turn on/off grow lights based off a schedule
