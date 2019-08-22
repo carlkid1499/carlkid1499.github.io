@@ -11,6 +11,10 @@ My Smart Garden Project has a few goals that it will need to accomplish.
 3. Use an RTC to keep track of the time
 4. Log data and errors to an SD card.
 
+![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_front.jpg)
+
+If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
+
 ### Future Project Place Holder
 
 
