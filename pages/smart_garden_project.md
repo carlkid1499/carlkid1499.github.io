@@ -26,8 +26,13 @@ I'll be providing a list along with links of the sites.
 4. [Barrel Jack Female Pigtail](https://www.robotgeek.com/store/p/6612-Barrel-Jack-Female-Pigtail-Lead-2-1-5-5mm.aspx)
 5. [Power Supply](https://www.robotgeek.com/p/power-supply-12vdc-5a.aspx)
 6. [ARDUINO UNO](https://store.arduino.cc/usa/arduino-uno-rev3)
+7. [Relay Switch(es)](https://www.amazon.com/dp/B06XHJ2PBJ/?coliid=I3RDTUQO5M74UB&colid=FP9L4KYYU2YC&psc=1&ref_=lv_ov_lig_dp_it)
+8. [Shelving Storage Unit](https://www.amazon.com/dp/B01LWP8AL2/?coliid=I1757JK5ZZFCIM&colid=FP9L4KYYU2YC&psc=1&ref_=lv_ov_lig_dp_it)
 
+These next few items are going to be optional in case you don't have them at hand.
 
+1. [Soldering Iron Kit](https://www.amazon.com/dp/B01MR65RJD/?coliid=I15JW967TNOG03&colid=FP9L4KYYU2YC&psc=0&ref_=lv_ov_lig_dp_it)
+2. [Electric wire 22 gauge](https://www.amazon.com/dp/B01LH1FR6M/?coliid=I1L6P5OPUK0WC3&colid=FP9L4KYYU2YC&psc=1&ref_=lv_ov_lig_dp_it)
 
 ### Pictures
 
