@@ -31,8 +31,13 @@ I'll be providing a list along with links of the sites.
 
 ### Pictures
 
-
+#####  Image: Full Project at a distance
 ![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_front.jpg)
+#####  Image: Grow Lights
+![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_lights.jpg)
+#####  Image: Top View of Project
+![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_top.jpg)
+
 
 ##### If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
 
