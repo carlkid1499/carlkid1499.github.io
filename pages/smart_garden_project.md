@@ -48,11 +48,24 @@ These next few items are going to be optional in case you don't have them at han
 
 ### Let's Talk Code
 
-'#include <Wire.h>
-#include "RTClib.h"
-#include <SPI.h>
-#include <SD.h>'
+##### Includes
+'#include <Wire.h>'
+'#include "RTClib.h"'
+'#include <SPI.h>'
+'#include <SD.h>'
 
+The first thing we need to do for any project is figure out what libraries we need to include for our components. The wire.h will allow use to communicate with the RTC (Adalogger FeatherWing - RTC + SD) unit via I2C.
+The RTClib.h containts all the funtions we can use with the RTC unit.
+The SPI.h and SD.h are used to interface with the SD component of the RTC unit.
+
+##### Defines
+'#define Relay_Light 5'
+'#define Relay_Water_1 2'
+'#define Relay_Water_2 6'
+'#define LED_1 3'
+'#define cardSelect 10'
+
+Next we need to define a few pins to control our relay switches, LED, and the SD card. These are pretty straight forward. Keep in mind you can change these to your liking. The "cardSelect 10" will depend on the type of SD card you are using. Please refer the Adafruit's website for mmore details [Link](https://learn.adafruit.com/adafruit-adalogger-featherwing/using-the-sd-card)
 
 
 ##### If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
