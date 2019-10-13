@@ -35,11 +35,14 @@ These next few items are going to be optional in case you don't have them at han
 ### Pictures
 
 #####  Image: Full Project at a distance
-![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_front.jpg =500x500)
+<p><img src="http://carlossantosdev.me/images/smart_garden_front.jpg" alt="Front image of smart garden" width="500" height="500"></p>
+
 #####  Image: Grow Lights
-![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_lights.jpg=500x500)
+<p><img src="http://carlossantosdev.me/images/smart_garden_lights.jpg=500x500" alt="smart garden lights" width="500" height="500"></p>
+
 #####  Image: Top View of Project
-![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_top.jpg=500x500)
+<p><img src="http://carlossantosdev.me/images/smart_garden_top.jpg=500x500" alt="smart garden top" width="500" height="500"></p>
+
 
 
 ##### If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
