@@ -12,8 +12,8 @@ I introduce to you the [Smart Garden Project](http://carlossantosdev.me/pages/sm
 
 If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
 
-### Future Project Place Holder
 
+### Future Project Place Holder
 
 
 ### Future Project Place Holder

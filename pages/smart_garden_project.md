@@ -1,5 +1,5 @@
 # Smart Garden Project
-
+[Back](http://carlossantosdev.me/pages/index).
 ### Summary
 
 The main purpose of this project is to have a self sufficient garden while travling for a few days upto a few weeks. It also needs to be somewhat cost efficient.
@@ -38,10 +38,10 @@ These next few items are going to be optional in case you don't have them at han
 <p><img src="http://carlossantosdev.me/images/smart_garden_front.jpg" alt="Front image of smart garden" width="500" height="500"></p>
 
 #####  Image: Grow Lights
-<p><img src="http://carlossantosdev.me/images/smart_garden_lights.jpg=500x500" alt="smart garden lights" width="500" height="500"></p>
+<p><img src="http://carlossantosdev.me/images/smart_garden_lights.jpg=" alt="smart garden lights" width="500" height="500"></p>
 
 #####  Image: Top View of Project
-<p><img src="http://carlossantosdev.me/images/smart_garden_top.jpg=500x500" alt="smart garden top" width="500" height="500"></p>
+<p><img src="http://carlossantosdev.me/images/smart_garden_top.jpg" alt="smart garden top" width="500" height="500"></p>
 
 
 
