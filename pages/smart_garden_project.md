@@ -2,17 +2,15 @@
 
 ### Summary
 
-Are you a person who likes plants?
-Are you a person who likes to travel?
-If that is you, you are not alone. I designed this project so
-that you can have some piece of mind while away.
+The main purpose of this project is to have a self sufficient garden while travling for a few days upto a few weeks. It also needs to be somewhat cost efficient.
 
 ##### The main points of this project are as follows:
 
-1. On/Off grow lights based off a schedule
-2. On/Off a water pump based off a schedule
-3. RTC to keep track of the time
+1. On/Off grow lights based on a schedule
+2. On/Off water pump(s) based on a schedule
+3. RTC to keep track of the time for schedule
 4. Log data and errors to an SD card.
+5. PhotoCells to keep track of light intensity.
 
 
 ### Items List
