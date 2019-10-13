@@ -1,5 +1,5 @@
 # Smart Garden Project
-[Back](http://carlossantosdev.me/pages/index).
+[Back to Main](http://carlossantosdev.me)
 ### Summary
 
 The main purpose of this project is to have a self sufficient garden while travling for a few days upto a few weeks. It also needs to be somewhat cost efficient.
@@ -16,7 +16,7 @@ The main purpose of this project is to have a self sufficient garden while travl
 ### Items List
 
 Like many project we are going to need materials. We are in luck!
-I'll be providing a list along with links of the sites.
+I'll be providing a list along with links of the sites. These are the items I used in this project. I'll be adding more and I add more to the project.
 
 1. [Adalogger FeatherWing](https://www.adafruit.com/product/2922)
 2. [RobotGeek Sensor Shield](https://www.robotgeek.com/robotgeek-sensor-shield)
@@ -26,6 +26,9 @@ I'll be providing a list along with links of the sites.
 6. [ARDUINO UNO](https://store.arduino.cc/usa/arduino-uno-rev3)
 7. [Relay Switch(es)](https://www.amazon.com/dp/B06XHJ2PBJ/?coliid=I3RDTUQO5M74UB&colid=FP9L4KYYU2YC&psc=1&ref_=lv_ov_lig_dp_it)
 8. [Shelving Storage Unit](https://www.amazon.com/dp/B01LWP8AL2/?coliid=I1757JK5ZZFCIM&colid=FP9L4KYYU2YC&psc=1&ref_=lv_ov_lig_dp_it)
+9. [Aquarium Tubing](https://www.amazon.com/gp/product/B0002APXOQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+10. [1/4 Inch Drip Line Tee](https://www.amazon.com/Kalolary-Connectors-Irrigation-Universal-Fittings/dp/B07PQG3G5B/ref=sr_1_2?crid=2QNB6S8NPJK5K&keywords=1%2F4+drip+irrigation+tee&qid=1570947450&s=lawn-garden&sprefix=1%2F4+drip+irrigation+tee%2Clawngarden%2C238&sr=1-2)
+11. [1/4 Inch Drip Line Coupling](https://www.amazon.com/Raindrip-312050B-Barbed-Connectors-4-Inch/dp/B003B68AU2/ref=sr_1_2?keywords=1%2F4+drip+irrigation+coupling&qid=1570947527&s=lawn-garden&sr=1-2)
 
 These next few items are going to be optional in case you don't have them at hand.
 
@@ -38,10 +41,17 @@ These next few items are going to be optional in case you don't have them at han
 <p><img src="http://carlossantosdev.me/images/smart_garden_front.jpg" alt="Front image of smart garden" width="500" height="500"></p>
 
 #####  Image: Grow Lights
-<p><img src="http://carlossantosdev.me/images/smart_garden_lights.jpg=" alt="smart garden lights" width="500" height="500"></p>
+<p><img src="http://carlossantosdev.me/images/smart_garden_lights.jpg" alt="smart garden lights" width="500" height="500"></p>
 
 #####  Image: Top View of Project
 <p><img src="http://carlossantosdev.me/images/smart_garden_top.jpg" alt="smart garden top" width="500" height="500"></p>
+
+### Let's Talk Code
+
+'#include <Wire.h>
+#include "RTClib.h"
+#include <SPI.h>
+#include <SD.h>'
 
 
 
