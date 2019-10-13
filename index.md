@@ -8,7 +8,7 @@ This presents me with an issue. I love plants but how am I going to water and te
 
 I introduce to you the [Smart Garden Project](http://carlossantosdev.me/pages/smart_garden_project).
 
-![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_front.jpg)
+![Front image of smart garden project](http://carlossantosdev.me/images/smart_garden_front.jpg =500x500)
 
 If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
 
