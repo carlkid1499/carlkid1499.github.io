@@ -65,7 +65,7 @@ The SPI.h and SD.h are used to interface with the SD component of the RTC unit.
     #define LED_1 3
     #define cardSelect 10
 
-Next we need to define a few pins to control our relay switches, LED, and the SD card. These are pretty straight forward. Keep in mind you can change these to your liking. The "cardSelect 10" will depend on the type of SD card you are using. Please refer the Adafruit's website for mmore details [Link](https://learn.adafruit.com/adafruit-adalogger-featherwing/using-the-sd-card)
+Next we need to define a few pins to control our relay switches, LED's, and the SD card. These are pretty straight forward. Keep in mind you can change these to your liking. The "cardSelect 10" will depend on the type of SD card you are using. Please refer the Adafruit's website for mmore details [Link](https://learn.adafruit.com/adafruit-adalogger-featherwing/using-the-sd-card)
 
 
 ##### If you are looking for the GitHub repository link [click here!](https://github.com/carlkid1499/carlkid1499.github.io)
